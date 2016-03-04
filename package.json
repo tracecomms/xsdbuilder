@@ -1,0 +1,15 @@
+{
+  "name": "xsdbuilder",
+  "version": "1.0.0",
+  "description": "Build and XSD by adding types and elements",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlbuilder": "^4.2.1"
+  }
+}
