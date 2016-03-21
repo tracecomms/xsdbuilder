@@ -1,6 +1,6 @@
 {
   "name": "xsdbuilder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Build and XSD by adding types and elements",
   "main": "index.js",
   "scripts": {
